@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">183948283028-s03j0mklil55mu8ev5e25arur7ipm3bf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">183948283028</string>
+    <string name="google_api_key" translatable="false">AIzaSyD53vKAhT9XLX4C8l3EsCGpa9Pocnaqx2c</string>
+    <string name="google_app_id" translatable="false">1:183948283028:android:e5de0f80557d8075ad3881</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD53vKAhT9XLX4C8l3EsCGpa9Pocnaqx2c</string>
+    <string name="google_storage_bucket" translatable="false">food-management-system-16741.appspot.com</string>
+    <string name="project_id" translatable="false">food-management-system-16741</string>
+</resources>
