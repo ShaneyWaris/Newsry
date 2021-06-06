@@ -1,6 +1,6 @@
-# food_management_system
+# Newsry
 
-A new Flutter project.
+A personalized news mobile app.
 
 ## Getting Started
 
